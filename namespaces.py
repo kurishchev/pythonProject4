@@ -6,4 +6,4 @@ def test_function():
     inner_function()
 test_function()
 # print('inner_function вне функции test_function, ау?')   # -отсюда не вызывается
-# inner_function
+# inner_function()
